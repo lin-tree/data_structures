@@ -1,0 +1,6 @@
+this is i2
+---------
+include iii1:
+#include iii1.txt
+---------
+end of i2

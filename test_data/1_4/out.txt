@@ -1,0 +1,54 @@
+this is test
+---
+include i1:
+this is i1
+---------
+test include self:
+// #include i1.txt
+
+--------
+include ii1:
+this is ii1
+---
+ii1 data
+
+---
+end of ii1
+
+--------
+include ii2:
+this is ii2
+---
+test circular include
+
+---
+include iii1:
+this is iii1
+---
+iii1 data
+
+---
+end of iii1
+
+---
+end of ii2
+
+--------
+end of i1
+
+---
+include i2:
+this is i2
+---------
+include iii1:
+this is iii1
+---
+iii1 data
+
+---
+end of iii1
+---------
+end of i2
+
+---
+end of test

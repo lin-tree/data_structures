@@ -1,0 +1,11 @@
+this is test
+---
+include i1:
+#include i1.txt
+
+---
+include i2:
+#include i2.txt
+
+---
+end of test

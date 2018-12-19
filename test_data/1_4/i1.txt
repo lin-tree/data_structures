@@ -1,0 +1,15 @@
+this is i1
+---------
+test include self:
+// #include i1.txt
+
+--------
+include ii1:
+#include ii1.txt
+
+--------
+include ii2:
+#include ii2.txt
+
+--------
+end of i1

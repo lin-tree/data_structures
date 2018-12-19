@@ -1,0 +1,11 @@
+this is ii2
+---
+test circular include
+// #include test.txt
+
+---
+include iii1:
+#include iii1.txt
+
+---
+end of ii2

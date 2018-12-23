@@ -1,4 +1,4 @@
-package net.lintree.ds1_15;
+package net.lintree.chapter1.ds1_15;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package net.lintree.ds1_4;
+package net.lintree.chapter1.ds1_4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package net.lintree.ds1_3;
+package net.lintree.chapter1.ds1_3;
 
 /**
  * 1.3 只使用处理io的<code>printDigit</code>方法，

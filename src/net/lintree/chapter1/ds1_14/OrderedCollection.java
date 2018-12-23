@@ -1,6 +1,6 @@
-package net.lintree.ds1_14;
+package net.lintree.chapter1.ds1_14;
 
-import net.lintree.ds1_13.Collection;
+import net.lintree.chapter1.ds1_13.Collection;
 
 public class OrderedCollection<T extends Comparable<T>> extends Collection<T> {
 	

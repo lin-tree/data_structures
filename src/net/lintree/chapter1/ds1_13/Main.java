@@ -1,4 +1,4 @@
-package net.lintree.ds1_13;
+package net.lintree.chapter1.ds1_13;
 
 public class Main {
 
